@@ -4,6 +4,8 @@ Untuk menyimpan code game space-invaders beserta tahapannya
 ## Assets
 Menampilkann Atrribution untuk Asset yang digunakan dalam pembuatan game ini
 
+### Image
+
 #### Background
 <a href="https://www.freepik.com/vectors/background">Background vector created by freepik - www.freepik.com</a>
 
@@ -20,5 +22,9 @@ Menampilkann Atrribution untuk Asset yang digunakan dalam pembuatan game ini
 ==> Enemy ==> no attribution ==> link : https://www.pngegg.com/en/png-zhjyi
 ==> Enemy ==> no attribution ==> link : https://www.pngkey.com/detail/u2q8a9q8o0r5o0t4_space-invaders-alien-png-photo-space-invaders-aliens/
 
+### Sound 
+
+#### Background 
+<a href="https://www.classicgaming.cc/classics/space-invaders/sounds">Background Sound created by - www.classicgaming.cc</a>
 
 
