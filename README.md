@@ -31,5 +31,5 @@ Other enemy : https://www.pngkey.com/
 <a href="https://https://www.soundfishing.eu/sound/laser-gun">Bullet Sound created by - www.soundfishing.eu</a>
 
 #### Shot Sound
-<a href="https://www.soundfishing.eu/sound/distant-explosion">Bullet Sound created by - www.soundfishing.eu</a>
+<a href="https://www.soundfishing.eu/sound/distant-explosion">Shot Sound created by - www.soundfishing.eu</a>
 
