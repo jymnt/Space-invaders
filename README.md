@@ -4,7 +4,7 @@ Untuk menyimpan code game space-invaders beserta tahapannya
 ## Assets
 Menampilkann Atrribution untuk Asset yang digunakan dalam pembuatan game ini
 
-### Background
+#### Background
 <a href="https://www.freepik.com/vectors/background">Background vector created by freepik - www.freepik.com</a>
 
 ### Bullet
