@@ -20,7 +20,7 @@ Menampilkann Atrribution untuk Asset yang digunakan dalam pembuatan game ini
 
 #### Enemy 
 <div>EnemyAlien <a href="https://www.pngegg.com/en/png-zhjyi">Background Sound created by - www.pngegg.com</a></div>
-<div>Other enemy : <a href="https://www.pngkey.com/detail/u2q8a9q8o0r5o0t4_space-invaders-alien-png-photo-space-invaders-aliens/"</a></div>
+<div>Other enemy : <a href="https://www.pngkey.com"</a></div>
 
 ### Sound 
 
