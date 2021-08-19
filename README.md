@@ -28,8 +28,8 @@ Other enemy : https://www.pngkey.com/
 <a href="https://www.classicgaming.cc/classics/space-invaders/sounds">Background Sound created by - www.classicgaming.cc</a>
 
 #### Bullet Sound
-<a href="https://https://www.soundfishing.eu/sound/laser-gun">Background Sound created by - www.soundfishing.eu</a>
+<a href="https://https://www.soundfishing.eu/sound/laser-gun">Bullet Sound created by - www.soundfishing.eu</a>
 
 #### Shot Sound
-https://www.soundfishing.eu/search.php
+<a href="https://www.soundfishing.eu/sound/distant-explosion">Bullet Sound created by - www.soundfishing.eu</a>
 
