@@ -18,7 +18,7 @@ Menampilkann Atrribution untuk Asset yang digunakan dalam pembuatan game ini
 
 #### Enemy 
 ==> Enemy ==> no attribution ==> link  https://www.pngegg.com/en/png-zhjyi
-<div>Enemy no attribution link : <a href="https://www.pngkey.com/detail/u2q8a9q8o0r5o0t4_space-invaders-alien-png-photo-space-invaders-aliens/"</a></div>
+<div>Enemy no attribution link :<a href="https://www.pngkey.com/detail/u2q8a9q8o0r5o0t4_space-invaders-alien-png-photo-space-invaders-aliens"</a></div>
 
 
 
